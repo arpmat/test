@@ -4,11 +4,11 @@
 	<pluginVersion><![CDATA[2.3.2.201003220227-RELEASE]]></pluginVersion>
 	<configSuffixes>
 		<configSuffix><![CDATA[xml]]></configSuffix>
-	</configSuffixes>
+	<onfigSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
 		<config>src/main/webapp/WEB-INF/gameoflife-servlet.xml</config>
-	</configs>
+	<configs>
 	<configSets>
 	</configSets>
 </beansProjectDescription>
