@@ -15,7 +15,7 @@ RUN wget -O- http://archive.apache.org/dist/maven/maven-3/$MAVEN_VERSION/binarie
 
 USER seluser
 
-ENV MAVEN_HOME /opt/maven
+ENV MAVEN_HOME /etc/maven
 
 EXPOSE 9090
 
